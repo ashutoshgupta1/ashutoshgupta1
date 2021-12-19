@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Web developement(Django and javascript) and Machine Learning
+🌱 Learning
 
 👯 I’m looking to collaborate on python projects and front end web dev projects
 
